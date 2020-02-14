@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ACMW-Website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ACMW-Website/static/js/main.9b900ac3.chunk.js",
+    "main.js.map": "/ACMW-Website/static/js/main.9b900ac3.chunk.js.map",
+    "runtime-main.js": "/ACMW-Website/static/js/runtime-main.1ed9f9ea.js",
+    "runtime-main.js.map": "/ACMW-Website/static/js/runtime-main.1ed9f9ea.js.map",
+    "static/js/2.deb6092a.chunk.js": "/ACMW-Website/static/js/2.deb6092a.chunk.js",
+    "static/js/2.deb6092a.chunk.js.map": "/ACMW-Website/static/js/2.deb6092a.chunk.js.map",
+    "index.html": "/ACMW-Website/index.html",
+    "precache-manifest.c59a4ef39b6047fbd9f3da235bac745e.js": "/ACMW-Website/precache-manifest.c59a4ef39b6047fbd9f3da235bac745e.js",
+    "service-worker.js": "/ACMW-Website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ACMW-Website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.deb6092a.chunk.js.LICENSE.txt": "/ACMW-Website/static/js/2.deb6092a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed9f9ea.js",
+    "static/js/2.deb6092a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9b900ac3.chunk.js"
+  ]
+}
