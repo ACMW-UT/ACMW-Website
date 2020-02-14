@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c42611548dcd670f1b3b46f4ae59993b",
+    "revision": "dcf6f7769b6a280f0c61a43d08faf061",
     "url": "/ACMW-Website/index.html"
   },
   {
-    "revision": "bd6e86f0f65b00d72e41",
+    "revision": "2c293f13ab533232756c",
     "url": "/ACMW-Website/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ACMW-Website/static/js/2.deb6092a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd6e86f0f65b00d72e41",
-    "url": "/ACMW-Website/static/js/main.9b900ac3.chunk.js"
+    "revision": "2c293f13ab533232756c",
+    "url": "/ACMW-Website/static/js/main.34123c43.chunk.js"
   },
   {
     "revision": "6f1162bdb49ca4667238",
