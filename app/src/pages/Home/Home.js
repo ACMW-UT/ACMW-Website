@@ -9,6 +9,7 @@ class Home extends React.Component {
                 <Navbar />
                 <p>This is the home page</p>
                 <p>Manish Typed this line</p>
+                <p>Cole wrote this</p>
             </div>
         )
     }
