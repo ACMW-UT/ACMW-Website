@@ -7,7 +7,7 @@ class About extends React.Component {
         return (
             <div>
                 <Navbar />
-                <p>this is the about page</p>
+                <p>this is the ABOUT page</p>
             </div>
         )
     }
