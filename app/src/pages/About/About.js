@@ -8,6 +8,7 @@ class About extends React.Component {
             <div>
                 <Navbar />
                 <p>this is the about page</p>
+                <p>cole changed this</p>
             </div>
         )
     }
