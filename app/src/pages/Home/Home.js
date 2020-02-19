@@ -8,6 +8,7 @@ class Home extends React.Component {
             <div>
                 <Navbar />
                 <p>This is the home page</p>
+                <p>Manish Typed this line</p>
             </div>
         )
     }
