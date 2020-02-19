@@ -11,6 +11,7 @@ class Home extends React.Component {
                 <p>Manish Typed this line</p>
                 <p>Cole wrote this</p>
                 <p>Ikshita Typed this line</p>
+                <img src="https://placekitten.com/300/300">This is a cat</img>
             </div>
         )
     }
