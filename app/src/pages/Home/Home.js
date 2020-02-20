@@ -9,7 +9,7 @@ class Home extends React.Component {
                 <Navbar />
                 <p>This is the home page</p>
                 <p>Manish Typed this line</p>
-                <p>Cole wrote this</p>
+                <p>Cole wrote hi</p>
                 <p>Ikshita Typed this line</p>
                 <p>Sanskar Typed this line</p>
                 <img src="https://placekitten.com/300/300" />
