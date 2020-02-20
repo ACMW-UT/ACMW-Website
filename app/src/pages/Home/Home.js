@@ -12,6 +12,7 @@ class Home extends React.Component {
                 <p>Cole wrote this</p>
                 <p>Ikshita Typed this line</p>
                 <img src="https://placekitten.com/300/300" />
+                <p>This is for a commit.</p>
             </div>
         )
     }
